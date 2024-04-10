@@ -5,6 +5,7 @@ import Header from './MyComponents/Header';
 function App() {
   return (
     <>
+      <H2>this is head<H2/>
       <Header/>
     </>
   );
