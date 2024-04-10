@@ -1,1 +1,10 @@
 Install Node.js
+npm : when you want some utlity to be permenantly keep in your system.
+npx : when you want some utility to keep temperly in your system, while the time you are using it.
+public/index.html div id = root which shows all contents
+src/index.js is the entry point of code
+src/App.js is a component for now, coz index.js sends it there
+inside <div>{'surya'}</div> you can write js code
+import './App.css'; is used for styling
+we use jsx which is combination of js ans html
+if you write something you need to wrap inside enpty <> </>
